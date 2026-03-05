@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá! Eu sou o <strong>AstroCx1-env</strong></h1>
+<h1 align="center">👋 Olá! Eu sou o <strong>João</strong></h1>
 <h3 align="center">💻 Estudante e iniciante em programação 🚀</h3>
 
 ---
