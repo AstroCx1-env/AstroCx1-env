@@ -8,11 +8,10 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (ADS).
 - 💻 Desenvolvendo habilidades em **Back-End**, **Redes** e **Segurança da Informação**.
-- 🧠 Interessado em **JavaScript**, **Node.js**, **PHP** e **bancos de dados**.
 - 🌐 Explorando **Linux**, **servidores (FTP, SFTP, SSH)** e redes.
 - 🔐 Iniciando em **segurança da informação**, **Pentest** e **CTF**.
 - 💡 **Gosto de aprender na prática criando labs e projetos**.
-- 🎯 Objetivo: me tornar um profissional completo em TI (Dev + Infra + Sec).
+- 🎯 Objetivo: me tornar um **profissional completo em TI (Dev + Infra + Sec)**.
 
 ---
 
