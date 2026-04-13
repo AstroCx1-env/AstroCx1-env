@@ -15,17 +15,6 @@
 
 ---
 
-### 🧠 Áreas de interesse
-
-- 🌐 Redes de computadores (VLAN, roteamento, etc)
-- 🖥️ Servidores Linux (Ubuntu Server)
-- 🔐 Segurança da Informação / Pentest
-- 🕵️‍♂️ OSINT e análise de informações
-- 🎮 Capture The Flag (CTF)
-- ⚙️ Back-End
-
----
-
 ### 🛠️ Tecnologias que estou aprendendo
 
 <div align="center">
@@ -42,15 +31,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
-
----
-
-### 🧪 Labs e estudos práticos
-
-- 🔧 Servidor FTP/SFTP com Linux
-- 🌐 Configuração de redes e VLANs (Packet Tracer)
-- 🔐 Testes com ferramentas de segurança (Nmap, OSINT)
-- 💻 Ambientes virtuais para simular redes e ataques
 
 ---
 
