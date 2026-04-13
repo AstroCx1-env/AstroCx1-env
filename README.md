@@ -1,16 +1,28 @@
 <!-- Banner -->
 <h1 align="center">👋 Olá! Eu sou o <strong>João</strong></h1>
-<h3 align="center">💻 Estudante e iniciante em programação 🚀</h3>
+<h3 align="center">💻 TI | Redes | Back-End | Segurança 🚀</h3>
 
 ---
 
 ### 🌱 Sobre mim
 
-- 📚 Atualmente estudando **lógica de programação** e **desenvolvimento web**  
-- 🧠 Interessado em aprender **JavaScript**, **Node.js**, **PHP** e **bancos de dados**  
-- 💡 Gosto de entender como as coisas funcionam e criar pequenos projetos para praticar  
-- ⚡ Curioso por tecnologia e sempre tentando aprender algo novo  
-- 🎯 Meu objetivo: evoluir um pouquinho a cada dia 🚀  
+- 📚 Estudando **programação**, **redes** e **infraestrutura**
+- 🧠 Interessado em **JavaScript**, **Node.js**, **PHP** e **bancos de dados**
+- 🌐 Explorando **Linux**, **servidores (FTP, SFTP, SSH)** e redes
+- 🔐 Iniciando em **segurança da informação**, **Pentest** e **CTF**
+- 💡 Gosto de aprender na prática criando labs e projetos
+- 🎯 Objetivo: me tornar um profissional completo em TI (Dev + Infra + Sec)
+
+---
+
+### 🧠 Áreas de interesse
+
+- 🌐 Redes de computadores (VLAN, roteamento, etc)
+- 🖥️ Servidores Linux (Ubuntu Server)
+- 🔐 Segurança da Informação / Pentest
+- 🕵️‍♂️ OSINT e análise de informações
+- 🎮 Capture The Flag (CTF)
+- ⚙️ Back-End
 
 ---
 
@@ -24,13 +36,28 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
+---
+
+### 🧪 Labs e estudos práticos
+
+- 🔧 Servidor FTP/SFTP com Linux
+- 🌐 Configuração de redes e VLANs (Packet Tracer)
+- 🔐 Testes com ferramentas de segurança (Nmap, OSINT)
+- 💻 Ambientes virtuais para simular redes e ataques
+
+---
+
+### 🎯 Objetivo atual
+
+> Evoluir em **redes, servidores e segurança ofensiva (Pentest)**  
+> e me tornar um profissional completo na área de TI 🚀  
 
 ---
 
