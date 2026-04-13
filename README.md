@@ -36,12 +36,6 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
----
-
-### 🎯 Objetivo atual
-
-> Evoluir em **redes, servidores e segurança ofensiva (Pentest)**  
-> e me tornar um profissional completo na área de TI 🚀  
 
 ---
 
