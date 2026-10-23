@@ -24,7 +24,7 @@
       <p>I'm passionate about infrastructure, networking, back-end development, and cybersecurity.</p>
       <p>I learn by building practical labs, automating tasks, and solving real-world IT challenges.</p>
       <p>Currently exploring <b>Node.js, databases, Docker, Linux, and information security</b>, with a focus on penetration testing and CTFs.</p>
-      <p>My goal is to build clean software, maintain reliable infrastructure, and grow across <b>Development, Infrastructure, and Security</b>.</p>
+      <p>My goal is to build clean software, maintain reliable infrastructure, and grow across <b>Development, Infrastructure, and Security.</b> <br> </p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="assets/the.jpg" width="100%" alt="There's no place like 127.0.0.1" />
