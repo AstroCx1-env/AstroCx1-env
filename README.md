@@ -6,7 +6,7 @@
 
 <h3 align="center">TI · Redes · Back-End · Segurança</h3>
 
-<p align="center"><code>Aprendendo na prática, um lab por vez</code></p>
+<p align="center"><code>One step time...</code></p>
 
 <p align="center">
   Construindo sistemas confiáveis, com infraestrutura sólida e código limpo.
