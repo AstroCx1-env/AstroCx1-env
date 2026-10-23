@@ -25,7 +25,7 @@
 <p>My goal is simple and uncompromising: to write clean code, maintain resilient infrastructure, and become a well-rounded professional—covering <b>Dev, Infra, and Sec</b>. No shortcuts. No excuses.</p>
 
 <p align="center">
-  <img src="assets/sobre.png" alt="There's no place like 127.0.0.1" width="70%" />
+  <img src="assets/the.jpg" alt="There's no place like 127.0.0.1" width="70%" />
 </p>
 
 ---
