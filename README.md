@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" height="260" style="object-fit: cover;" />
+  <img src="assets/banner.svg" alt="Banner" width="100%" height="260" style="object-fit: cover;" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Astro</h1>
