@@ -14,21 +14,23 @@
 
 ---
 
+
 <h2 align="center">About me</h2>
 
-<p><b>Astro</b>, Software Engineering student — obsessed with infrastructure, networking, and back-end.</p>
-
-<p>I learn by getting my hands dirty: I set up labs, automate chaos, and build battle-tested systems to solve real-world IT challenges.</p>
-
-<p>Right now, I’m diving deep into <b>Node.js, databases, Docker, Linux, and information security</b> — pecifically penetration testing and CTFs, where silence speaks volumes.</p>
-
-<p>My goal is simple and uncompromising: to write clean code, maintain resilient infrastructure, and become a well-rounded professional—covering <b>Dev, Infra, and Sec</b>. No shortcuts. No excuses.</p>
-
-<p align="center">
-  <img src="assets/the.jpg" alt="There's no place like 127.0.0.1" width="70%" />
-</p>
-
----
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/the.jpg" width="100%" alt="There's no place like 127.0.0.1" />
+    </td>
+    <td width="65%" valign="middle">
+      <h3>Astro — Software Engineering Student</h3>
+      <p>I'm passionate about infrastructure, networking, back-end development, and cybersecurity.</p>
+      <p>I learn by building practical labs, automating tasks, and solving real-world IT challenges.</p>
+      <p>Currently exploring <b>Node.js, databases, Docker, Linux, and information security</b>, with a focus on penetration testing and CTFs.</p>
+      <p>My goal is to build clean software, maintain reliable infrastructure, and grow across <b>Development, Infrastructure, and Security</b>.</p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Conect</h2>
 
@@ -39,7 +41,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,postgres,linux,bash,docker,git,github,vscode" />
@@ -47,7 +49,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AstroCx1-env&theme=github-dark&hide_border=true&background=00000000" />
