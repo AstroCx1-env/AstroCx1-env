@@ -1,47 +1,74 @@
-<!-- Banner -->
-<h1 align="center">👋 Olá! Eu sou o <strong>Astro</strong></h1>
-<h3 align="center">💻 TI | Redes | Back-End | Segurança 🚀</h3>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" height="260" style="object-fit: cover;" />
+</p>
+
+<h1 align="center">Olá 👋, eu sou o Astro</h1>
+
+<h3 align="center">TI · Redes · Back-End · Segurança</h3>
+
+<p align="center"><code>Aprendendo na prática, um lab por vez</code></p>
+
+<p align="center">
+  Construindo sistemas confiáveis, com infraestrutura sólida e código limpo.
+</p>
 
 ---
 
-### 🌱 Sobre mim
+<h2 align="center">🚀 Sobre mim</h2>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (ADS).
-- 💻 Desenvolvendo habilidades em **Back-End**, **Redes** e **Segurança da Informação**.
-- 🌐 Explorando **Linux**, **servidores (FTP, SFTP, SSH)** e redes.
-- 🔐 Iniciando em **segurança da informação**, **Pentest** e **CTF**.
-- 💡 **Gosto de aprender na prática criando labs e projetos**.
-- 🎯 Objetivo: me tornar um **profissional completo em TI (Dev + Infra + Sec)**.
+<p><b>Astro</b>, por aqui — estudante de Engenharia de Software e apaixonado por infraestrutura, redes e back-end.</p>
 
----
+<p>Gosto de aprender na prática: monto labs, automatizo tarefas e desenvolvo sistemas para resolver problemas reais do dia a dia de TI.</p>
 
-### 🛠️ Tecnologias que estou aprendendo
+<p>Atualmente estudo <b>Node.js, bancos de dados, Docker, Linux</b> e <b>segurança da informação</b> (Pentest e CTF).</p>
 
-<div align="center">
+<p>Meu objetivo é simples: escrever código limpo, manter infraestruturas confiáveis e me tornar um profissional completo em <b>Dev + Infra + Sec</b>.</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="assets/sobre.png" alt="There's no place like 127.0.0.1" width="70%" />
+</p>
 
 ---
 
-### ✨ Frase que me representa
+<h2 align="center">🤝 Conectar</h2>
 
-> “Todo profissional já foi um iniciante que não desistiu.” 💪  
+<p align="center">
+  <a href="https://github.com/AstroCx1-env"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="LINK_DO_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-<h4 align="center">Feito com ❤️ e muita curiosidade por AstroCx1-env</h4>
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,postgres,linux,bash,docker,git,github,vscode" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AstroCx1-env&theme=github-dark&hide_border=true&background=00000000" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AstroCx1-env&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🐍 Cobrinha</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake.svg" />
+</picture>
+
+<p align="center"><sub>“Todo profissional já foi um iniciante que não desistiu.”</sub></p>
