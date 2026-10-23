@@ -55,14 +55,6 @@
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AstroCx1-env&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake-dark.svg" />
   <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake.svg" />
