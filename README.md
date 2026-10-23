@@ -2,14 +2,14 @@
   <img src="assets/banner.svg" alt="Banner" width="100%" height="260" style="object-fit: cover;" />
 </p>
 
-<h1 align="center">Olá 👋, eu sou o Astro</h1>
+<h1 align="center">Hello, I am Astro</h1>
 
-<h3 align="center">TI · Redes · Back-End · Segurança</h3>
+<h3 align="center">IT · Networks · Back-End · Security</h3>
 
 <p align="center"><code>One step time...</code></p>
 
 <p align="center">
-  Construindo sistemas confiáveis, com infraestrutura sólida e código limpo.
+  Reliable systems. Solid infrastructure. Clean code. Nothing else.
 </p>
 
 ---
