@@ -63,11 +63,9 @@
 
 ---
 
-<h2 align="center">🐍 Cobrinha</h2>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake-dark.svg" />
   <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/AstroCx1-env/AstroCx1-env/output/github-snake.svg" />
 </picture>
 
-<p align="center"><sub>“Todo profissional já foi um iniciante que não desistiu.”</sub></p>
+<p align="center"><sub>"No one reaches the top without first crawling. Every professional was once a stubborn beginner."</sub></p>
