@@ -14,15 +14,15 @@
 
 ---
 
-<h2 align="center">🚀 Sobre mim</h2>
+<h2 align="center">About me</h2>
 
-<p><b>Astro</b>, por aqui — estudante de Engenharia de Software e apaixonado por infraestrutura, redes e back-end.</p>
+<p><b>Astro</b>, Software Engineering student — obsessed with infrastructure, networking, and back-end.</p>
 
-<p>Gosto de aprender na prática: monto labs, automatizo tarefas e desenvolvo sistemas para resolver problemas reais do dia a dia de TI.</p>
+<p>I learn by getting my hands dirty: I set up labs, automate chaos, and build battle-tested systems to solve real-world IT challenges.</p>
 
-<p>Atualmente estudo <b>Node.js, bancos de dados, Docker, Linux</b> e <b>segurança da informação</b> (Pentest e CTF).</p>
+<p>Right now, I’m diving deep into <b>Node.js, databases, Docker, Linux, and information security</b> — pecifically penetration testing and CTFs, where silence speaks volumes.</p>
 
-<p>Meu objetivo é simples: escrever código limpo, manter infraestruturas confiáveis e me tornar um profissional completo em <b>Dev + Infra + Sec</b>.</p>
+<p>My goal is simple and uncompromising: to write clean code, maintain resilient infrastructure, and become a well-rounded professional—covering <b>Dev, Infra, and Sec</b>. No shortcuts. No excuses.</p>
 
 <p align="center">
   <img src="assets/sobre.png" alt="There's no place like 127.0.0.1" width="70%" />
@@ -30,11 +30,10 @@
 
 ---
 
-<h2 align="center">🤝 Conectar</h2>
+<h2 align="center">Conect</h2>
 
 <p align="center">
   <a href="https://github.com/AstroCx1-env"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="LINK_DO_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
